@@ -219,6 +219,10 @@ margin-bottom: 3.2rem;
     outline: none;
     border: 1px solid #eb9d8a;
 }
+#contact .contact-form .btn-dark{
+    border: none;
+    width: 100%
+}
 /* footer */
 #main-footer{
     background-color: #161616;
